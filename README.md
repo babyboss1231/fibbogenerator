@@ -1,5 +1,12 @@
 # fibbogenerator
 #This program generates the first n Fibonacci numbers. You can change the value of n to get as many numbers as you'd like.
+
+
+
+
+
+
+
 def fibonacci_series(n):
     fib_sequence = []
     a, b = 0, 1
